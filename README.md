@@ -11,4 +11,4 @@ As a result of our analysis, in relation to our three points, the findings that 
 -Only a few features were to correlate (as seen on the heatmap below), we decided to drop two features which had too low scores in relation to our classification
 -Flask was chosen in order to make a lightweight API that can easilybe deployed locally.
 
-![Alt text](heatmap.png?raw=true "Heatmap")
+![Alt text](heatmap.PNG?raw=true "Heatmap")
