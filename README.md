@@ -14,3 +14,7 @@ As a result of our analysis, in relation to our three points, the findings that 
 -Flask was chosen in order to make a lightweight API that can easilybe deployed locally.
 
 ![Alt text](heatmap.PNG?raw=true "Heatmap")
+
+## API :
+
+To use the API, create a pickle of your chosen model, then run the app.ipynb file, and while keeping it running, run the request.ipynb file with the chosen test.
